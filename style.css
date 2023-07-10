@@ -107,6 +107,11 @@ height: 87px;   */
   justify-content: center;
   gap: 50px;
   margin-top: 96px;
+  padding-left: 20px;
+}
+.picture-box-img{
+  background-color: #FFF;
+  padding: 16px 16px;
 }
 .picture-box-img > h6 {
   color: var(--dark-button-medium, #6e7491);
@@ -176,6 +181,7 @@ height: 87px;   */
   background-color:#A7B5BE;
   width: 800px;
   margin-left: 120px;
+  margin-top: 50px;
 }
 
 .frinds-one{
